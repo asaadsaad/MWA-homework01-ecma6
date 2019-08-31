@@ -1,8 +1,8 @@
 # MWA Homework 01 - ECMAScript 2015 (ES6)
 ## Exercise 01
 1. Define a removeNum function that will work asynchronously on every Array object. 
-...The function accepts one argument: a number. 
-...The function returns a new array after removing all instances of the passed number.
+   ...The function accepts one argument: a number. 
+   ...The function returns a new array after removing all instances of the passed number.
 2. Explain how does this function affect the event-loop?
 ```javascript
 console.log('Start'); 
