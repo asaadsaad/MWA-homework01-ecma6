@@ -7,7 +7,7 @@
 
 ```javascript
 console.log('Start'); 
-console.log([1, 3, 4, 2, 1, 5].removeNum(1)); 
+[1, 3, 4, 2, 1, 5].removeNum(1).then(results=>console.log(results));
 console.log('Finish'); 
    
 Start
