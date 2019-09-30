@@ -17,8 +17,8 @@ Finish
 - - - -
 ## Exercise 02
 1. Create three buttons:
-   * Promise Fetch (use [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch))
-   * Async/Await Fetch (use [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function))
-   * Reactive Fetch (use [RxJS](https://rxjs-dev.firebaseapp.com/))  
+   * **Promise Fetch** (use [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch))
+   * **Async/Await Fetch** (use [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function))
+   * **Reactive Fetch** (use [RxJS](https://rxjs-dev.firebaseapp.com/))  
 When each button is clicked, you will make a request to `https://randomuser.me/api/` and return a `JSON` with name and location only.
 2. Explain which one of the three is asynchronous.
