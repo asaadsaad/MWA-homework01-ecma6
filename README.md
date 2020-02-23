@@ -5,4 +5,5 @@ Use RXJS and build a Speed-Typing game, with the following specifications:
   * Fetch a new Quote from: [Quotable API](http://api.quotable.io/random)
   * Letters can be colored Green/Red by giving them classes: `correct` and `incorrect`
   * A new quote should be fetch when sentence is correct or timer has reached 100 seconds.
+    
 ![Screenshot](./screenshot.png)
