@@ -1,5 +1,5 @@
 # MWA Homework 01 - ECMAScript 2015 (ES6)
-## Exercise
+## Exercise - Reactive Game
 Use RXJS and convert all events, timers, ajax calls, arrays to Observables for the following Speed-Typing game.
   * Events must be registered with `fromEvent()`
   * Game Timer must be created with `interval()`
